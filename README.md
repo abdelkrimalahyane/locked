@@ -1,3 +1,3 @@
 # locked
 
-2nd project
+yarn
